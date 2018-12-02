@@ -13,3 +13,5 @@ for letter in s:
     if type(s) == int:
         temp += letter
 print(temp)
+
+# Hi there
